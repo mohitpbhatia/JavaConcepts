@@ -8,4 +8,4 @@ public class SpiderMan extends Person {
         System.out.println("SpiderMan is using its power....");
     }
 
-}
+} 
